@@ -13,3 +13,7 @@ All assignments for Month 1 will be stored here. Each assignment should be submi
                         - https://www.terabox.app/sharing/link?surl=6meoltiWK18hoz-6RgqWFQ
                         - https://www.malwr4n6.com/post/macos-malware-analysis-pkg-files
                         - https://learn.microsoft.com/en-us/sysinternals/
+
+- Assignment 6: Research, Study, and after using the alloted tools, make a POC (proof of concept) and upload
+                        - SSL Labs Analyzer
+                        - PhishTool
