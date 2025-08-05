@@ -17,6 +17,21 @@ This internship is designed to provide **hands-on experience** across critical d
 
 ---
 
+Final Project Topic:
+
+The one main thing which I should be mentioning here, is the topic my team selected for this internship, as our final project which would be related to OSINT. Will be updated soon.
+
+---
+
+Team name: VIPER
+Which Stands for: Vastly Intricate Protocol Enforcement Regiment
+
+Team member 1: Harini Porumamilla
+Intern ID: 385
+Team member 2: Adwitya Deep Verma 
+Intern ID: 186
+
+---
 ## 📁 Repository Structure
 
 ```
