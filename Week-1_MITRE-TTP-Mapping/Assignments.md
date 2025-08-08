@@ -4,13 +4,13 @@ All assignments, shared resources for Month 1 will be stored here. Each assignme
 
 ## Assignments
 
-Assignment 1: Research, Study, and after using the alloted tools, make a POC (proof of concept) and upload on your repo
+Assignment 1: Research, Study, and after using the alloted tools, make a POC (proof of concept) and upload on your repo     DONE
 
 Assignment 2: Malware analysis
 
-Assignment 3: Threat Intelligence poc
+Assignment 3: Threat Intelligence poc    DONE
 
-Assignment 4: Homography detection tool, 
+Assignment 4: Homography detection tool,   DONE
 
 
 ## Scope and Learn
