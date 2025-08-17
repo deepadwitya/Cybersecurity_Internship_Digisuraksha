@@ -1,6 +1,3 @@
-
-***
-
 ```markdown
 # 🛡️ NIDS Threat Monitor
 
@@ -123,5 +120,3 @@ For major changes, please open an issue first to discuss what you would like to 
 ## 📜 License
 [MIT License](LICENSE)  
 ```
-
-***
