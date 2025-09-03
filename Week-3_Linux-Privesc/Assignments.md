@@ -10,9 +10,18 @@ Assignment 1: Network Intrusion Detection System tool, which is used for packet 
 
 ## Scope and Learn
 
-Learning 1: Learning about NIDS, its subtopics, and why is it useful.
+Learning 1: Learning and researching about Bug Hunting, and overall other pen testing, or bug bounty related fields. Materials were given accordingly.
 
-Learning 2: Learn about dark web Investigations and maintaining anonimity.
+Learning 2: Learn about NIDS, its subtopics and why is it useful.
+
+Learning 3: ZPhisher and Camphish
+
+Learning 4: Learn about dark web Investigations and maintaining anonimity.
+
+Learining 5:    - (Social engineering) https://www.youtube.com/watch?v=fHhNWAKw0bY
+                - https://owasp.org/www-project-api-security/
+                - (Courses) https://www.apisecuniversity.com/
+
 
 
 
