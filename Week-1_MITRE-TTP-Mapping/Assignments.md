@@ -31,6 +31,9 @@ Learning 5: Researching/Learning about Malware Analysis, and studying about shar
 
 Learning 6: learn about different security frameworks, working, and try to utilize those skills.
 
+## NOTE:
+    The materials I have gathered are from open source, and are not my property, the poeple are free to check on those and for reference. The owner of materials would be mentioned in those files by itself, I by no means would be editing those.
+
 
 ## Updates:
 
